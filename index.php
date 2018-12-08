@@ -12,6 +12,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    
+    <p>yoooooolloooooooooo arigato !</p>
 </body>
 </html>
