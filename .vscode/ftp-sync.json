@@ -1,0 +1,27 @@
+{
+    "remotePath": "var/www/codeigniter/",
+    "host": "kevinbourbasquet.hd.free.fr",
+    "username": "bourbasque-k",
+    "password": "&tr&0un&p4s&tr&",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": true,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
